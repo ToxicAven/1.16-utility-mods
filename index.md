@@ -2,6 +2,7 @@
 ### Chances are 2b2t.org is updating to the latest version of Minecraft, I made this list so I don't need to type the list everytime.
 
 *If I missed any mods, please open a PR, or send me a message!*
+
 ***
 
 | Name | Description | Open Source? |
