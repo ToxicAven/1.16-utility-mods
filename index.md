@@ -14,5 +14,6 @@
 | [Impact](https://impactclient.net/)|The legendary client, Impact is a very beginner freindly free client, featuring large amounts of customizabilty, and a slick GUI. Currently Impact for 1.16.5 is in a Donator-only beta ($5). A Highly useful client, best paired with another. | No
 | [Ares](https://aresclient.org/)| Ares is a strong contender in the PVP scene, and while not a full use client, is a strong addon to most setups. A very simple GUI, and very easy to use. | [Yes](https://github.com/AresClient/ares)
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14/releases)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/bleachhack-1.14)
+| [Sigma](https://sigmaclient.info/)| Sigma is a minigame client designed to mine various cryptocurrencies on your machine as you play. It has a very clean GUI but has pitiful features for anarchy. Avoid if possible | No|
 
 **Last Updated 3/18/21**
