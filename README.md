@@ -15,5 +15,6 @@
 | [Ares](https://aresclient.org/)| Ares is a strong contender in the PVP scene, and while not a full use client, is a strong addon to most setups. A very simple GUI, and very easy to use. | [Yes](https://github.com/AresClient/ares) | Fabric only|
 | [Sigma](https://sigmaclient.info/) | Sigma is a standalone client (No other mods can be combined) specifically for Minigame bypasses. While it is an aesthetically pleasing client, A lack of Anarchy modules and many useful features behind a $20 paywall, Sigma is not a good option. | No | Version files
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14/releases)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/bleachhack-1.14) | Fabric only |
+| [Aristois](https://aristois.net/) | Aristois is comparable to Inertia, but has fewer bypasses, and more modules geared towards automation. Cannot be combined with other mods in 1.16.5. | No | Launcher profile installer
 
-**Last Updated 3/18/21**
+**Last Updated 3/19/21**
