@@ -16,5 +16,6 @@
 | [Sigma](https://sigmaclient.info/) | Sigma is a standalone client (No other mods can be combined) specifically for Minigame bypasses. While it is an aesthetically pleasing client, A lack of Anarchy modules and many useful features behind a $20 paywall, Sigma is not a good option. | No | Version files
 | [BleachHack](https://github.com/BleachDrinker420/bleachhack-1.14/releases)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/bleachhack-1.14) | Fabric only |
 | [Aristois](https://aristois.net/) | Aristois is comparable to Inertia, but has fewer bypasses, and more modules geared towards automation. Can put fabric mods in your .minecraft/libraries/me/deftware/EMC-F-v2/(version) that will initialize on launch. | No | Launcher profile installer
+| [FrostBurn](https://github.com/evaan/FrostBurn) | FrostBurn is a work in progress client it is actively being developed so expect a decent amount of updates also it doesn't have a clickgui yet but it has a decent bit of modules and a command system to work with and you need to build it yourself from the github as there is no prebuilt jar. | [Yes](https://github.com/evaan/FrostBurn) | Fabric only
 
-**Last Updated 3/30/21**
+**Last Updated 4/3/21**
