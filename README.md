@@ -19,4 +19,4 @@
 | [BubbyClient](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | BubbyClient used to be a private client and is now open-source. It has a UI comparable to Nodus. It lacks modules useful for Anarchy servers, but does have a considerable amount of mods. | [Yes](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | Fabric only |
 
 
-**Last Updated 3/30/21**
+**Last Updated 4/23/21**
