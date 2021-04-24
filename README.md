@@ -17,6 +17,7 @@
 | [BleachHack](https://bleachhack.github.io/)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/BleachHack) | Fabric only |
 | [Aristois](https://aristois.net/) | Aristois is comparable to Inertia, but has fewer bypasses, and more modules geared towards automation. Can put fabric mods in your .minecraft/libraries/me/deftware/EMC-F-v2/(version) that will initialize on launch. | No | Launcher profile installer
 | [BubbyClient](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | BubbyClient used to be a private client and is now open-source. It has a UI comparable to Nodus. It lacks modules useful for Anarchy servers, but does have a considerable amount of mods. Although it isn't being developed any further, it still does currently have mods that are useful. Recommended as an add-on to other clients lacking BubbyClient's additional features. | [Yes](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | Fabric only |
+| [Cornos](https://cornos.cf) | Cornos is an overall good quality client. It has GUI modules like Wurst's, and some additional funny jokes as well. It features TheAltening authentication and a huge amount of modules, as well as a working server crasher. It does lack AutoCrystal and other Anarchy client features, though. | [Yes](https://github.com/AriliusClient/Cornos) | Fabric only |
 
 
 **Last Updated 4/23/21**
