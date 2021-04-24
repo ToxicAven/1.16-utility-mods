@@ -16,5 +16,7 @@
 | [Sigma](https://sigmaclient.info/) | Sigma is a standalone client (No other mods can be combined) specifically for Minigame bypasses. While it is an aesthetically pleasing client, A lack of Anarchy modules and many useful features behind a $20 paywall, Sigma is not a good option. | No | Version files
 | [BleachHack](https://bleachhack.github.io/)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/BleachHack) | Fabric only |
 | [Aristois](https://aristois.net/) | Aristois is comparable to Inertia, but has fewer bypasses, and more modules geared towards automation. Can put fabric mods in your .minecraft/libraries/me/deftware/EMC-F-v2/(version) that will initialize on launch. | No | Launcher profile installer
+| [BubbyClient](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | BubbyClient used to be a private client and is now open-source. It has a UI comparable to Nodus. It lacks modules useful for Anarchy servers, but does have a considerable amount of mods. | [Yes](https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16/) | Fabric only |
+
 
 **Last Updated 3/30/21**
