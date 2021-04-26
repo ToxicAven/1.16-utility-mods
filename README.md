@@ -14,9 +14,9 @@
 | [Impact](https://impactclient.net/)| The legendary client, Impact is a very beginner freindly free client, featuring large amounts of customizabilty, and a slick GUI. Currently Impact for 1.16.5 is in a Donator-only beta ($5). A Highly useful client, best paired with another (not possible on 1.16). | No | Jarmod only|
 | [Ares](https://aresclient.org/)| Ares is a strong contender in the PVP scene, and while not a full use client, is a strong addon to most setups. A very simple GUI, and very easy to use. | [Yes](https://github.com/AresClient/ares) | Fabric only|
 | [Sigma](https://sigmaclient.info/) | Sigma is a standalone client (No other mods can be combined) specifically for Minigame bypasses. While it is an aesthetically pleasing client, A lack of Anarchy modules and many useful features behind a $20 paywall, Sigma is not a good option. | No | Version files
-| [BleachHack](https://bleachhack.github.io/)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. the only gripe that makes me say this is best paired with another client is the Render modules. | [Yes](https://github.com/BleachDrinker420/BleachHack) | Fabric only |
+| [BleachHack](https://bleachhack.github.io/)| A rather odd addition, BleachHack is a surprisingly useful client, with full-use mods and active development. A very promising client, with very simple configuration. | [Yes](https://github.com/BleachDrinker420/BleachHack) | Fabric only |
 | [Aristois](https://aristois.net/) | Aristois is comparable to Inertia, but has fewer bypasses, and more modules geared towards automation. Can put fabric mods in your .minecraft/libraries/me/deftware/EMC-F-v2/(version) that will initialize on launch. | No | Launcher profile installer
 | [Cornos](https://cornos.cf) | Cornos is an overall good quality client. It has GUI modules like Wurst's, and some additional inside jokes as well. It features TheAltening authentication and a huge amount of modules, as well as a working server crasher. It does lack AutoCrystal and other Anarchy client features, though. | [Yes](https://github.com/AriliusClient/Cornos) | Fabric only |
 
 
-**Last Updated 4/23/21**
+**Last Updated 4/26/21**
