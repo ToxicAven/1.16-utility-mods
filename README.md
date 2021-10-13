@@ -1,8 +1,8 @@
 # [1.16 Utility Mods](https://toxicaven.github.io/1.16-utility-mods/)
-### Chances are 2b2t.org is updating to the latest version of Minecraft. This is a list of 1.16.X Utility mods. 
+### ~~Chances are 2b2t.org is updating to the latest version of Minecraft. This is a list of 1.16.X Utility mods.~~
 
-*If I missed any mods, please open a PR, or send me a message!*
-
+~~*If I missed any mods, please open a PR, or send me a message!*~~
+## Discontinued, I'm too lazy to maintain this
 ***
 
 | Name | Description | Open Source? | Supported Platforms |
